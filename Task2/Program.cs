@@ -17,7 +17,7 @@ try
     int N = Convert.ToInt32(Console.ReadLine());
     if(M > 0 && N > 0)
     {
-        Console.WriteLine($"Сумма натуральных элементов в промежутке от M до N: {SumOfNumbers(M,N)}");
+        Console.WriteLine($"Сумма натуральных элементов в промежутке от {M} до {N}: {SumOfNumbers(M,N)}");
     }
     else
     {
