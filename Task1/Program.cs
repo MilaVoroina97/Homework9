@@ -14,7 +14,7 @@ try
 
     Console.WriteLine("Введите первое целое натуральное число:");
     int M = Convert.ToInt32(Console.ReadLine());
-    Console.WriteLine("Введите первое целое натуральное число:");
+    Console.WriteLine("Введите второе целое натуральное число:");
     int N = Convert.ToInt32(Console.ReadLine());
     if(M > 0 && N > 0)
     {
